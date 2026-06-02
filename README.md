@@ -131,13 +131,19 @@ Whether I am contributing to open source, mentoring students, building projects 
 
 # 📊 GitHub Analytics
 
+<h1 align="center">
+📊 💜 DEVELOPER METRICS 💙 📊
+</h1>
+
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=aanchal911&show_icons=true&theme=radical&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanchal911&layout=compact&theme=radical&hide_border=true"/>
+<img src="https://img.shields.io/github/followers/aanchal911?style=for-the-badge&color=ff4ecd"/>
+
+<img src="https://img.shields.io/github/stars/aanchal911?style=for-the-badge&color=8b5cf6"/>
+
+<img src="https://komarev.com/ghpvc/?username=aanchal911&style=for-the-badge&color=3b82f6"/>
+
 </p>
-
----
 
 # 🔥 Contribution Streak
 
