@@ -1,4 +1,4 @@
-# 🌸✨ AANCHAL BHATT • DIGITAL CREATOR • BUILDER IN PUBLIC
+# 🌸✨ COOLEST GEEK • DIGITAL CREATOR • PRODUCT BUILDER 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=320&text=Aanchal%20Bhatt&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=ffffff&color=0:ff4ecd,20:ff66ff,50:8b5cf6,75:6366f1,100:3b82f6"/>
