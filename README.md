@@ -148,7 +148,7 @@ Whether I am contributing to open source, mentoring students, building projects 
 # 🔥 Contribution Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=aanchal911&theme=radical&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=aanchall911&theme=radical&hide_border=true"/>
 </p>
 
 ---
