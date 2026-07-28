@@ -156,7 +156,7 @@ Whether I am contributing to open source, mentoring students, building projects 
 # 📈 Activity Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aanchal911&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aanchall911&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 ---
