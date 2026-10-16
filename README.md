@@ -7,7 +7,7 @@
 <!-- YOUR CUSTOM BANNER -->
 
 <p align="center">
-  <img src="GOOGLE STUDENT AMBASSADOR (1).png" width="100%" alt="Aanchal Bhatt Banner"/>
+  <img src="GOOGLE STUDENT AMBASSADOR.png" width="100%" alt="Aanchal Bhatt Banner"/>
 </p>
 
 <p align="center">
